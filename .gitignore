@@ -117,5 +117,6 @@ dmypy.json
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# graphic files
+# graphic files and others
 *.svg
+*.csv
